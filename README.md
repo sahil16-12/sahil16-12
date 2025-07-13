@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 
-- 👨‍💻 Checkout my portfolio at [https://sahil16-12.github.io/Portfolio/](https://shahil-vora.vercel.app)
+- 👨‍💻 Checkout my portfolio at [https://shahil-vora.vercel.app](https://shahil-vora.vercel.app)
 
 - 💬 Ask me about **MEARN**
 
