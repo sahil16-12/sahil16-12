@@ -9,15 +9,13 @@
  
 - 🌐 From coding to deployment, I enjoy solving problems and creating impactful solutions.
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence (AI)**
 
-- 👨‍💻 Checkout my portfolio at [https://sahil16-12.github.io/Portfolio/](https://sahil16-12.github.io/Portfolio/)
+- 👨‍💻 Checkout my portfolio at [https://sahil16-12.github.io/Portfolio/](https://shahil-vora.vercel.app)
 
 - 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **sahil16december@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RvWscUrS36u_fxMftn93dUtJC4TCz6yP/view?usp=drive_link](https://drive.google.com/file/d/1RvWscUrS36u_fxMftn93dUtJC4TCz6yP/view?usp=drive_link)
 
 - ⚡ Fun fact **Chill, witty, and always up for a good conversation!**
 
