@@ -9,11 +9,7 @@
  
 - 🌐 From coding to deployment, I enjoy solving problems and creating impactful solutions.
 
-- 🌱 I’m currently learning **Artificial Intelligence (AI)**
-
 - 👨‍💻 Checkout my portfolio at [https://shahil-vora.vercel.app](https://shahil-vora.vercel.app)
-
-- 💬 Ask me about **MEARN**
 
 - 📫 How to reach me **sahil16december@gmail.com**
 
